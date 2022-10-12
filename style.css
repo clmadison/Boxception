@@ -1,0 +1,31 @@
+h1  {
+    text-align: center;
+}
+
+#third {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    padding: auto;
+    margin:auto;
+    margin-top: 100px;
+    background-color: white;
+}
+
+#second {
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    padding: auto;
+    margin: 100px;
+    background-color: blue;
+}
+
+#first{
+    width: 500px;
+    height: 500px;
+    border: solid 3px black;
+    padding: auto;
+    margin: auto;
+    background-color: red;
+}
